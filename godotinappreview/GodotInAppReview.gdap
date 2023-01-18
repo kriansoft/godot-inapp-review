@@ -4,4 +4,4 @@ binary_type="local"
 binary="GodotInAppReview.aar"
 
 [dependencies]
-remote=["example.plugin.android:remote-dep1:0.0.1"]
+remote=["com.google.android.play:review:2.0.1"]
