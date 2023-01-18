@@ -1,0 +1,7 @@
+[config]
+name="GodotInAppReview"
+binary_type="local"
+binary="GodotInAppReview.aar"
+
+[dependencies]
+remote=["example.plugin.android:remote-dep1:0.0.1"]
